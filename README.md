@@ -22,7 +22,9 @@
 
   <a href = "mailto:gabrielrodrigues01r@gmail.com?subject=Assunto ....."><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-rodrigues-b45b5723a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://gabrielrodrigues291.github.io/portifolio" target="_blank"><img src="https://icons8.com/icon/111593/portfolio" target="_blank"></a> 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  
 
   ![Snake animation](https://github.com/gabrielrodrigues291/gabrielrodrigues291/blob/output/github-contribution-grid-snake.svg)
  
