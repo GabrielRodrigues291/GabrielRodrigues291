@@ -1,4 +1,4 @@
-## Ola! eu sou o Gabriel Rodrigues
+![image](https://github.com/GabrielRodrigues291/GabrielRodrigues291/assets/91149996/adddc94d-7684-40b3-8b69-2941af07297d)## Ola! eu sou o Gabriel Rodrigues
 
 - 🔭 Atualmente Não estou trabalhando na Area de Desenvolvimento, estou Procurando uma Oportunidade
 - 🌱 React
@@ -22,7 +22,7 @@
 
   <a href = "mailto:gabrielrodrigues01r@gmail.com?subject=Assunto ....."><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-rodrigues-b45b5723a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://gabrielrodrigues291.github.io/portifolio/" target="_blank"><img height="30" width="40" src="https://icons8.com/icon/111593/portfolio" target="_blank"></a> 
+  <a href="https://gabrielrodrigues291.github.io/portifolio/" target="_blank"><img height="30" width="40" src="https://w7.pngwing.com/pngs/849/250/png-transparent-computer-icons-career-portfolio-icon-design-product-miscellaneous-rectangle-orange.png" target="_blank"></a> 
   
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   
