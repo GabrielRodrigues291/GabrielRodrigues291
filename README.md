@@ -1,6 +1,5 @@
 ## Ola! eu sou o Gabriel Rodrigues
 
-- 🔭 Atualmente Não estou trabalhando na Area de Desenvolvimento, estou Procurando uma Oportunidade
 - 🌱 React
 
 <div align="center">
@@ -26,8 +25,5 @@
   
   
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-  
-
-  ![Snake animation](https://github.com/gabrielrodrigues291/gabrielrodrigues291/blob/output/github-contribution-grid-snake.svg)
  
 </div>
