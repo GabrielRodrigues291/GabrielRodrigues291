@@ -1,6 +1,6 @@
 ## Ola! eu sou o Gabriel Rodrigues
+-- Atualmente não estou trabalhando na área apenas estudando
 
-- 🌱 React
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
